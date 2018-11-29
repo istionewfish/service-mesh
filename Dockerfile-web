@@ -1,0 +1,1 @@
+FROM gcr.io/linkerd-io/web:stable-2.0.0
